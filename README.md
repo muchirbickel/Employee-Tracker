@@ -3,7 +3,6 @@
 
 ## User Story
 
-
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
@@ -30,13 +29,6 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 
 
-## Mock-Up
-
-The following video shows an example of the application being used from the command line:
-
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/12-sql-homework-video-thumbnail.png)](https://2u-20.wistia.com/medias/2lnle7xnpk)
-
-
 ## Description
 This app is a Content Management Systems that make it easy for non-developers to view and interact with information stored in databases using node, inquirer, MySQL, and console.table. 
 
@@ -49,7 +41,7 @@ This app is a Content Management Systems that make it easy for non-developers to
 * [Screenshot](#Screenshot)
 * [Questions](#Questions)
 ## Installation
-The app uses node, inquirer, console.table and MySQL. So the user need to intall the all dependancies by running ```npm install```.
+The app uses node, inquirer, console.table and MySQL. So the user need to intall the all dependancies by running ```npm i```.
 ## Usage
 After installing all the dependencies, run ```node employeeTracker.js``` in your termial command. Then use the keyboard arrows to select and respond to all the prompt questions. 
 The user can view, add, update and remove employees information.
@@ -58,10 +50,9 @@ This app is under the MIT License.
 ## Contributing
 If anyone want to improve the app, feel free to contact me.
 ## Screenshot
-[Click here to see the demo video](https://youtu.be/GUF6WyS3L1Y)
+[Click here to see the demo video](https://youtu.be/4ymfHl3WoaE)
 
-![](./Assets/ScreenShot3.png)
-![](./Assets/ScreenShot2.png)
+![](./Assets/My-Employee-Tracker_.gif)
 ## Questions
 Contact me: muchir99@gmail.com
 
